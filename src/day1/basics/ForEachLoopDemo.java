@@ -12,7 +12,7 @@ public class ForEachLoopDemo {
 		char ch[]= {'j','a','v','a'};
 		for(char c:ch)
 		{
-			System.out.print(c);		
+			System.out.print(c+" ");		
 		}
 		System.out.println(" ");
 		String s1[]= {"Java","programming","learning"};
